@@ -6,7 +6,7 @@ It's a practice project for python beginners.
 
 **HINT: If you `import` the `pprint module` into your programs, you’ll have access to the `pprint()` and `pformat()` functions that will `“pretty print” a dictionary values`. This is helpful when you want a cleaner display of the items in a dictionary than what `print()` provides.**
 
-Modify the previous [characterCount.py](https://github.com/mullaghori/Character-Count/blob/main/README.md) program and save it as `prettyCharacterCount.py`.
+Modify the previous **[characterCount.py](https://github.com/mullaghori/Character-Count/blob/main/README.md)** program and save it as `prettyCharacterCount.py`.
 
 ***👉 No.1 This time, when the program runs, the output should looks much cleaner, with the keys sorted.***
 ```
